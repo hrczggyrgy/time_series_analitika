@@ -1,0 +1,13 @@
+neuralprophet@git+https://github.com/ourownstory/neural_prophet@1.0.0rc9
+neuralforecast@git+https://github.com/Nixtla/neuralforecast.git
+statsforecast@git+https://github.com/Nixtla/statsforecast.git
+kaleido
+pandas
+matplotlib
+plotly
+numpy
+torch
+pytorch-lightning
+torchmetrics
+captum
+holidays
